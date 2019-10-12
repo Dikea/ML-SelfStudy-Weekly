@@ -4,5 +4,5 @@
 
 ## 2019
 
-**十月**：[第 2 期](docs/doc_001.md):high_brightness: | [第 1 期](docs/doc_001.md)
+**十月**：[第 2 期](docs/doc_002.md):high_brightness: | [第 1 期](docs/doc_001.md)
 
